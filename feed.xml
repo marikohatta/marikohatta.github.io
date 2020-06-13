@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hatta Lab</title>
+    <link href="https://www.hattalab.org/feed.xml" rel="self" />
+    <link href="https://www.hattalab.org" />
+    <updated>1969-12-31T14:00:00-10:00</updated>
+    <author>
+        <name>Mariko Hatta</name>
+    </author>
+    <id>https://www.hattalab.org</id>
+
+</feed>
