@@ -9,5 +9,19 @@
         "name": "Mariko Hatta"
     },
     "items": [
+        {
+            "id": "https://www.hattalab.org/cv.html",
+            "url": "https://www.hattalab.org/cv.html",
+            "title": "CV",
+            "summary": "Download My CV!",
+            "content_html": "<p><a href=\"https://www.hattalab.org/media/files/CV_academic_2020May12.pdf\" download=\"download\">Download My CV!</a></p>",
+            "author": {
+                "name": "Mariko Hatta"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-13T11:31:17-10:00",
+            "date_modified": "2020-06-13T11:31:17-10:00"
+        }
     ]
 }

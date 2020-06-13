@@ -3,10 +3,30 @@
     <title>Hatta Lab</title>
     <link href="https://www.hattalab.org/feed.xml" rel="self" />
     <link href="https://www.hattalab.org" />
-    <updated>1969-12-31T14:00:00-10:00</updated>
+    <updated>2020-06-13T11:31:41-10:00</updated>
     <author>
         <name>Mariko Hatta</name>
     </author>
     <id>https://www.hattalab.org</id>
 
+    <entry>
+        <title>CV</title>
+        <author>
+            <name>Mariko Hatta</name>
+        </author>
+        <link href="https://www.hattalab.org/cv.html"/>
+        <id>https://www.hattalab.org/cv.html</id>
+
+        <updated>2020-06-13T11:31:17-10:00</updated>
+            <summary>
+                <![CDATA[
+                    Download My CV!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.hattalab.org/media/files/CV_academic_2020May12.pdf" download="download">Download My CV!</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
