@@ -3,7 +3,7 @@
     <title>Hatta Lab</title>
     <link href="https://www.hattalab.org/feed.xml" rel="self" />
     <link href="https://www.hattalab.org" />
-    <updated>2020-06-13T13:07:48-10:00</updated>
+    <updated>2020-06-14T09:46:29-10:00</updated>
     <author>
         <name>Mariko Hatta</name>
     </author>
@@ -286,7 +286,7 @@
         <link href="https://www.hattalab.org/cv.html"/>
         <id>https://www.hattalab.org/cv.html</id>
 
-        <updated>2020-06-13T12:10:10-10:00</updated>
+        <updated>2020-06-14T09:46:02-10:00</updated>
             <summary>
                 <![CDATA[
                     Download My Curriculum Vitae!
@@ -294,7 +294,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://www.hattalab.org/media/files/CV_academic_2020May12.pdf" download="download">Download My </a><a href="file:///Users/mhatta/Documents/Publii/sites/hatta-lab/preview/cv.html">Curriculum Vitae</a><a href="https://www.hattalab.org/media/files/CV_academic_2020May12.pdf" download="download">!</a></p>
+                <p><a href="https://www.hattalab.org/media/files/CV_academic_2020May12.pdf" download="download">Download My Curriculum Vitae!</a></p>
             ]]>
         </content>
     </entry>
