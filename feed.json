@@ -126,14 +126,14 @@
             "url": "https://www.hattalab.org/cv.html",
             "title": "Curriculum Vitae",
             "summary": "Download My Curriculum Vitae!",
-            "content_html": "<p><a href=\"https://www.hattalab.org/media/files/CV_academic_2020May12.pdf\" download=\"download\">Download My Curriculum Vitae!</a></p>",
+            "content_html": "<p><a href=\"https://www.hattalab.org/media/files/CV_academic_2020May12.pdf\">Download My Curriculum Vitae!</a></p>",
             "author": {
                 "name": "Mariko Hatta"
             },
             "tags": [
             ],
             "date_published": "2020-06-13T11:31:17-10:00",
-            "date_modified": "2020-06-14T09:46:02-10:00"
+            "date_modified": "2020-06-15T10:23:30-10:00"
         }
     ]
 }
