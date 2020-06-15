@@ -3,12 +3,72 @@
     <title>Hatta Lab</title>
     <link href="https://www.hattalab.org/feed.xml" rel="self" />
     <link href="https://www.hattalab.org" />
-    <updated>2020-06-15T10:24:23-10:00</updated>
+    <updated>2020-06-15T11:04:01-10:00</updated>
     <author>
         <name>Mariko Hatta</name>
     </author>
     <id>https://www.hattalab.org</id>
 
+    <entry>
+        <title>Teaching activites</title>
+        <author>
+            <name>Mariko Hatta</name>
+        </author>
+        <link href="https://www.hattalab.org/teaching-activites.html"/>
+        <id>https://www.hattalab.org/teaching-activites.html</id>
+
+        <updated>2020-06-15T10:42:43-10:00</updated>
+            <summary>
+                <![CDATA[
+                    2020-06-15 I am currently an Affiliate Researcher and a member of the Graduate Faculty at the University of Hawaii at Manoa, with a doctorate degree in Life and Environmental Science from the University of Toyama, Japan. While up till now my career has mostly been&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>2020-06-15</p>
+<p>I am currently an Affiliate Researcher and a member of the Graduate Faculty at the University of Hawaii at Manoa, with a doctorate degree in Life and Environmental Science from the University of Toyama, Japan.  While up till now my career has mostly been devoted to research, I have always been eager to develop my teaching skills.  I have taken several opportunities in various countries to involve myself in teaching students (Japan, China, and the USA) in order to build a foundation for my teaching philosophy.</p>
+<p>My main teaching goal is to enhance students’ transferable skills (i.e. analytical, presentation, writing) and to help students to learn how to solve problems, especially related to the multidisciplinary nature of chemical oceanography.  Biogeochemical processes in the ocean are fairly complex.  Understanding these processes requires knowledge of both chemistry and a comprehensive understanding of the physical and biological disciplines. </p>
+<p>I think that those skills can only be developed through the active student participation in class.  I would like to implement this philosophy by including a hands-on type class (such as a fieldwork and activities), where students can highlight and discuss their own experience to seek improvements.  I believe that this will help them to develop their initiative as well as to maintain their motivation.  Based on my own decade of field experience as a researcher and as a collaborator with multidisciplinary experts to students, I can share with the students how we connect the various physical and biological factors with our chemical data.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Research Interests</title>
+        <author>
+            <name>Mariko Hatta</name>
+        </author>
+        <link href="https://www.hattalab.org/research-interests.html"/>
+        <id>https://www.hattalab.org/research-interests.html</id>
+
+        <updated>2020-06-15T10:38:17-10:00</updated>
+            <summary>
+                <![CDATA[
+                    2020-06-15 As an observational chemical oceanographer, I am interested in identifying and describing the physical, biological and chemical processes in the global ocean as well as in coastal regions. My main research area includes the dynamics of bioactive trace metals (e.g., Fe), tracers (e.g., Al,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>2020-06-15</p>
+<p>As an observational chemical oceanographer, I am interested in identifying and describing the physical, biological and chemical processes in the global ocean as well as in coastal regions.  My main research area includes the dynamics of bioactive trace metals (e.g., Fe), tracers (e.g., Al, Mn, REEs) and nutrients (N, P, and Si) and their role in moderating marine biogeochemical processes.  I have been involved in several global scale projects (US CLIVAR, US GEOTRACES) and have participated in many of their global scale oceanographic cruises.  In addition, I have participated in several multi-disciplinary, Antarctic Ocean Projects.  During those research cruises, I had the opportunity to collaborate with other geochemists, biologists, and physical oceanographers.</p>
+<p>Currently our understanding of the biogeochemistry of the ocean is data-limited needing increased coverage in both space and time, as well as improved integration of existing and disparate datasets (Fassbender et al., 2018).  Recent global scale cruises that I have been a part of (CLIVAR and GEOTRACES), allow us not only to understand the 3-dimensional geochemical distributions and their cycles in the ocean but also to increase the magnitude of the datasets of geochemical parameters that can be used to improve models of the ocean and Earth system.  The results obtained have emphasized the importance of monitoring certain chemical parameters and their isotopes (e.g. Fe).  However, our ability to obtain large numbers of samples in the ocean is still limited by fairly complicated analytical protocols, that are utilized both at sea and in the lab.</p>
+<p>During my career, I have seen the challenge of undertaking analytical activities at sea and it has become obvious to me that it is essential for our field to improve current seagoing methodology and to develop simple and autonomous determination systems.  Thus, my recent research career has been focused on the application of microfluidic methodology to shipboard determinations in the field of chemical oceanography.</p>
+<p>Armed with my research background in chemical oceanography, my research activities are concentrated around two themes: (1) develop chemical oceanography instrumentation to reduce required sample volumes and improve their automation (2) to apply these and existing methodology to understand geochemical process and the role that bioactive trace metals and nutrients play in river, coastal and open ocean systems.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Method development projects using Microfluidics</title>
+        <author>
+            <name>Mariko Hatta</name>
+        </author>
+        <link href="https://www.hattalab.org/method-development-projects-using-microfluidics.html"/>
+        <id>https://www.hattalab.org/method-development-projects-using-microfluidics.html</id>
+
+        <updated>2020-06-15T10:33:53-10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Other publications</title>
         <author>
@@ -204,7 +264,7 @@
         <link href="https://www.hattalab.org/presentations-talks.html"/>
         <id>https://www.hattalab.org/presentations-talks.html</id>
 
-        <updated>2020-06-13T13:07:21-10:00</updated>
+        <updated>2020-06-15T10:56:15-10:00</updated>
             <summary>
                 <![CDATA[
                     Here is my history of my public presentations at conferences. 2002 Sep. Symposium of the Oceanographic Society of Japan, Hokkaido, Japan. Water mass distribution and its alteration in Japan Sea by the determination of dissolved oxygen and REE. (in Japanese) 2003 Sep. Goldschmidt Conference, Kurashiki,&hellip;
@@ -242,9 +302,9 @@
 <p><strong><em><u>2017</u></em></strong></p>
 <p>Feb.<strong>            ASLO Aquatic Sciences Meeting (INVITED)</strong>, Hawaii, USA. <br>GEOTRACES Arctic Section: Shipboard determination of dissolved Fe and Mn concentrations. (in English) <a href="https://www.sgmeet.com/aslo/honolulu2017/viewabstract.asp?AbstractID=29013">Abstract</a>.</p>
 <p><strong><em><u>2018 </u></em></strong></p>
-<p>May.<strong>                The “GEOTRACES IDP 2017 data with Ocean Data View” Workshop (INVITED)</strong>, Qingdao, China.  <br>A hands-on two-day workshop to 82 students in Ocean University of China. (in English) (<a href="http://www.geotraces.org/news-50/news/116-news/1531-successful-geotraces-idp-2017-data-with-ocean-data-view-workshop-held-in-qingdao">workshop report</a>)</p>
+<p>May.<strong>                The “GEOTRACES IDP 2017 data with Ocean Data View” Workshop (INVITED)</strong>, Qingdao, China.  <br>A hands-on two-day workshop to 82 students in Ocean University of China. (in English) (<a href="https://www.geotraces.org/odv-workshop-qingdao/">workshop report</a>)</p>
 <p><strong><em><u>2019 </u></em></strong></p>
-<p>Sep.<strong>                 The SCOR-GEOTRACES Joint Session at the Oceanographic Society of</strong> <strong>Japan </strong><strong>(INVITED)</strong>, Toyama, Japan.<br>US GEOTRACES inception, strategy and outcomes. (in English)</p>
+<p>Sep.<strong>                 The SCOR-GEOTRACES Joint Session at the Oceanographic Society of</strong> <strong>Japan </strong><strong>(INVITED)</strong>, Toyama, Japan.<br><a href="https://www.geotraces.org/usgeotraces-inception/" target="_blank" rel="noopener noreferrer">US GEOTRACES inception, strategy and outcomes</a>. (in English)</p>
 <p><strong><em><u>2020 </u></em></strong></p>
 <p>June.<strong>                Goldschmidt meeting</strong>, Hawaii, USA.</p>
             ]]>
@@ -301,84 +361,6 @@
 <li>Determination of chemical parameters in the water column</li>
 </ul>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About me</title>
-        <author>
-            <name>Mariko Hatta</name>
-        </author>
-        <link href="https://www.hattalab.org/about-me.html"/>
-        <id>https://www.hattalab.org/about-me.html</id>
-
-        <updated>2020-06-15T09:49:09-10:00</updated>
-            <summary>
-                <![CDATA[
-                    Researcher Dept. of Oceanography University of Hawai`i at Manoa 1000 Pope Road Marine Science Building 509 Honolulu HI, 96822 USA. Phone: +1 (808) 956-6632 Email: mhatta@hawaii.edu Curriculum Vitae Hatta, M., Measures, C.I., Wu, J., Fitzsimmons, J., Sedwick, P., Morton, P. (2015). Overview: Dissolved Fe and Mn&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>Researcher</h2>
-<h6> </h6>
-<p>Dept. of Oceanography<br>University of Hawai`i at Manoa</p>
-<p><br>1000 Pope Road<br>Marine Science Building 509<br>Honolulu HI, 96822 USA.</p>
-<p>Phone: +1 (808) 956-6632<br>Email: <a href="mailto:mhatta@hawaii.edu">mhatta@hawaii.edu</a></p>
-<p><a href="https://www.hattalab.org/cv.html">Curriculum Vitae</a></p>
-<h3><strong><u>Education:</u></strong></h3>
-<ul>
-<li>BSc 2001 – Environmental Biology and Chemistry, University of Toyama (Advisor: Prof. Kasahara).</li>
-<li>MSc 2003 – Environmental Biology and Chemistry, University of Toyama (Advisor: Prof. Zhang).</li>
-<li>D 2006 – Life and Environmental Sciences, University of Toyama (Advisor: Prof. Zhang).        </li>
-</ul>
-<h3><strong><u>Research Interests:</u></strong></h3>
-<ul>
-<li>Trace metal and nutrient geochemistry</li>
-<li>Method development</li>
-</ul>
-<h3><strong><u>Teaching activities:</u></strong></h3>
-<ul>
-<li>Teaching certificates for high school &amp; Junior high school (science), Japan.</li>
-<li>Biogeochemical Method in Oceanography (flow injection method), USA.</li>
-<li>Aquatic pollution (groundwater), USA.</li>
-<li>Lectures for Ocean Data View, USA, Japan, China.</li>
-<li>Earth and Environment class, Japan.</li>
-<li>The Mauka to Makai Oceanography Summer Bridge Program, USA.</li>
-</ul>
-<h3><u> </u><strong><u>Five selected publications:</u></strong> [full list is <a href="https://www.hattalab.org/publication.html">here</a>]</h3>
-<p>Hatta, M., Measures, C.I., Wu, J., Fitzsimmons, J., Sedwick, P., Morton, P. (2015). Overview: Dissolved Fe and Mn concentrations in the North Atlantic Ocean during GEOTRACES 2010/2011 cruises. <em>Deep-Sea Res. II.</em> 116.117-129. <a href="https://www.sciencedirect.com/science/article/pii/S0967064514001775">doi: 10.1016/j.dsr2.2014.07.005</a>.</p>
-<p>Hatta, M., Measures, C.I., Lam, P.J., Ohnemus, D.C., Auro, M.E., Grand, M.M., Selph, K.E. (2016). The relative roles of modified circumpolar deep water and benthic sources in supplying iron to the recurrent phytoplankton blooms above Pennell and Mawson Banks, Ross Sea, Antarctica, Journal of Marine Systems. <a href="https://www.sciencedirect.com/science/article/pii/S0924796316302081">doi: 10.1016/j.jmarsys.2016.07.009</a>.</p>
-<p>Hatta, M., Measures, C.I., Ruzicka, J. J. (2018). Programmable Flow Injection. Principle, methodology and application for trace analysis of iron in a sea water matrix. Talanta 178. 698-703. 2018.  <a href="https://www.sciencedirect.com/science/article/pii/S0039914017310469">doi: 10.1016/j.talanta.2017.10.007</a>.</p>
-<p>Hatta, M., Measures, C.I., Ruzicka, J.J. Determination of traces of phosphate in sea water is automated by programmable flow injection, and optimized by means of novel information on kinetics of formation and spectra of phosphomolybdenum blue. Talanta. 191. 333-341. doi: <a href="https://www.sciencedirect.com/science/article/pii/S0039914018308555">10.1016/j.talanta.2018.08.045</a>.</p>
-<p>Hatta, M., Ruzicka, J., Measures, C.I., The performance of a new linear long light path flow cell is compared with a liquid core waveguide and the linear cell is used for spectrophotometric determination of nitrite in sea water at nanomolar concentrations, Talanta.</p>
-<h3><strong><u>Funded projects: </u></strong></h3>
-<p><strong>2005</strong>                SASAKAWA SCIENTIFIC RESEARCH GRANT, the Japan Science Society, <a href="http://www.jss.or.jp/ikusei/sasakawa/search/result.php">17-327M</a>, 2005-2006, 510,000 yen. (Hatta PI)</p>
-<p><strong>2014</strong>                National Science Foundation, GEOTRACES Arctic Section: Shipboard determination of key trace elements (NSF <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1439253">OCE-1439253</a>) 2015-2017. $366,783. (Hatta co-PI)</p>
-<p><strong>2016</strong>                National Science Foundation, Automated Instrumentation for Chemical Oceanography Based on Sequential Injection Lab-On-valve Technology (NSF <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1634463">OCE-1634463</a>) 2016-2019. $534,389. (Hatta co-PI)</p>
-<p><strong>2017</strong>                National Science Foundation, US GEOTRACES PMT: Shipboard determination of key dissolved trace elements (NSF <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1736906&amp;HistoricalAwards=false">OCE-1736906</a>) 2017-2020. $ 438,766. (Hatta PI) includes 3-yrs of student funding.</p>
-<p><strong>2019                </strong>National Science Foundation, Collaborative Research (UH is lead Institution): Developing Automated Nutrient and Trace Metal Methodology using Programmable Flow Injection (NSF <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1924690&amp;HistoricalAwards=false">OCE-192490</a>) 2019-2022. $ 523,836. (Hatta PI).</p>
-<p><strong>2020                </strong>DeepGreen, Characterization and monitoring of the water column ecosystem in the eastern CCZ (NORI-D). $514,191. (Hatta PI).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Curriculum Vitae</title>
-        <author>
-            <name>Mariko Hatta</name>
-        </author>
-        <link href="https://www.hattalab.org/cv.html"/>
-        <id>https://www.hattalab.org/cv.html</id>
-
-        <updated>2020-06-15T10:23:30-10:00</updated>
-            <summary>
-                <![CDATA[
-                    Download My Curriculum Vitae!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://www.hattalab.org/media/files/CV_academic_2020May12.pdf">Download My Curriculum Vitae!</a></p>
             ]]>
         </content>
     </entry>
